@@ -1,6 +1,4 @@
 # Currency-Converter
-_________________________________________________________________________________
-# Currency Converter
 
 A Java program that converts multiple currencies (AFN, USD, NZD, CHF) to Indian Rupees based on fixed exchange rates.
 
@@ -17,3 +15,9 @@ git clone https://github.com/your-username/Currency-Converter.git
 cd Currency-Converter
 javac CurrencyConverter.java
 java CurrencyConverter
+
+
+## Technologies-Used
+Java
+Scanner
+Visual Studio Code
